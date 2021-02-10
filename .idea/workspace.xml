@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d669985-53eb-4e99-a216-6e9f5455680f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1oGchjYeU1OXixkhAqoJ755DGse" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.Test_textToBinaryImpl_Translate in fvpFormatTranslator/translate">
+    <configuration name="Test_textToBinaryImpl_Translate in fvpFormatTranslator/translate" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fvpFormatTranslator" />
+      <working_directory value="$PROJECT_DIR$/translate" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fvpFormatTranslator/translate" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_textToBinaryImpl_Translate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_validateFormatDestinoImpl_Validate in fvpFormatTranslator/validate" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fvpFormatTranslator" />
+      <working_directory value="$PROJECT_DIR$/validate" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fvpFormatTranslator/validate" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_validateFormatDestinoImpl_Validate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_validateFormatImpl_Validate in fvpFormatTranslator/validate" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fvpFormatTranslator" />
+      <working_directory value="$PROJECT_DIR$/validate" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fvpFormatTranslator/validate" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_validateFormatImpl_Validate\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_textToBinaryImpl_Translate in fvpFormatTranslator/translate" />
+        <item itemvalue="Go Test.Test_validateFormatDestinoImpl_Validate in fvpFormatTranslator/validate" />
+        <item itemvalue="Go Test.Test_validateFormatImpl_Validate in fvpFormatTranslator/validate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1612920787691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612920787691" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1612920787690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1612920787690" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1612920787690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1612920787690" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1612920787691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1612920787691" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1612918796868">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1612918796868" />
+  </component>
+</project>
